@@ -6,7 +6,7 @@
 
 # Hi there! 👋
 
-### `backend` // `cybersecurity` // `linux`
+### `backend` // `cybersecurity` // `linux` // `pentesting`
 
 <br/>
 
