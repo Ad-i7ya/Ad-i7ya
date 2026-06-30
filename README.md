@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ad-i7ya/Ad-i7ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="width: 100%; height: 200px; overflow: hidden; border-radius: 10px; border: 2px solid #ddd;">
+  <img src="https://i.pinimg.com/736x/df/89/c7/df89c70d9e1d141166144d9a43deae5e.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%;" />
+</div>
 
-Here are some ideas to get you started:
+# Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `backend` // `cybersecurity` // `linux`
+
+<br/>
+
+![Backend](https://img.shields.io/badge/Backend-black?style=for-the-badge&logo=nodedotjs)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=shield)
+![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-red?style=for-the-badge&logo=searx)
+
+</div>
