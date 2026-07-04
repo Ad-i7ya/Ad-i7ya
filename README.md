@@ -106,6 +106,9 @@
 
 <p align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=Deep+rivers+run+silently." />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=170&section=footer&animation=twinkling"/>
 
 </p>
