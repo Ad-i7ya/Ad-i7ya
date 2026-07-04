@@ -34,3 +34,46 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-i7ya&theme=tokyo-night&hide_border=true" width="100%" />
 
 ---
+
+## 💻 Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,c,nodejs,express,mongodb,mysql,sqlite,git,github,docker,cloudflare,nginx,vscode,postman,html,css,js&theme=dark&perline=10" />
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Daily%20User-orange?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Backend-Developer-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learner-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ad-i7ya&label=Visitors&style=for-the-badge&color=00F7FF"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Code.+Build.+Secure.;Keep+Learning.;One+Commit+at+a+Time.;Thanks+for+Visiting!+🚀" />
+
+</p>
+
+---
