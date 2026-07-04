@@ -77,3 +77,37 @@
 </p>
 
 ---
+
+## 🚀 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Ad-i7ya">
+<img src="https://img.shields.io/badge/GitHub-Ad--i7ya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/kzr0x">
+<img src="https://img.shields.io/badge/Telegram-@kzr0x-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/te4m1ord">
+<img src="https://img.shields.io/badge/Telegram-@te4m1ord-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Keep+Learning.+Keep+Building.;See+you+on+GitHub!+👋"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=170&section=footer&animation=twinkling"/>
+
+</p>
+
+</div>
