@@ -47,3 +47,62 @@
 </p>
 
 ---
+
+## 💻 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,c,nodejs,express,mongodb,mysql,sqlite,git,github,docker,cloudflare,nginx,vscode,postman,html,css,js&theme=dark&perline=10" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-Development-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00BFFF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pentesting-8A2BE2?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/OSINT-FF4D4D?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=00F7FF"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```text
+while(!(succeed))
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20,24,30&section=footer"/>
+</p>
+
+</div>
